@@ -1,0 +1,409 @@
+{
+  "topics": [
+    {
+      "name": "Du lịch",
+      "sentences": [
+        {
+          "text": "Where is the nearest train station?",
+          "meaning": "Ga tàu gần nhất ở đâu?"
+        },
+        {
+          "text": "I would like to book a flight to New York.",
+          "meaning": "Tôi muốn đặt một chuyến bay đến New York."
+        },
+        {
+          "text": "Could you please recommend a good local restaurant?",
+          "meaning": "Bạn có thể giới thiệu một nhà hàng địa phương tốt không?"
+        },
+        {
+          "text": "How much does a ticket to the museum cost?",
+          "meaning": "Vé vào bảo tàng giá bao nhiêu?"
+        },
+        {
+            "text": "Is there a free Wi-Fi connection here?",
+            "meaning": "Ở đây có kết nối Wi-Fi miễn phí không?"
+        },
+        {
+            "text": "What time does the hotel check-in start?",
+            "meaning": "Khách sạn bắt đầu check-in lúc mấy giờ?"
+        },
+        {
+            "text": "Can you help me with directions to the airport?",
+            "meaning": "Bạn có thể chỉ đường đến sân bay không?"
+        },
+        {
+            "text": "I'd like to extend my stay for one more night.",
+            "meaning": "Tôi muốn gia hạn thêm một đêm nữa."
+        },
+        {
+            "text": "Where can I exchange money?",
+            "meaning": "Tôi có thể đổi tiền ở đâu?"
+        },
+        {
+            "text": "Is it safe to walk around here at night?",
+            "meaning": "Có an toàn khi đi bộ quanh đây vào ban đêm không?"
+        }
+      ]
+    },
+    {
+      "name": "Công việc",
+      "sentences": [
+        {
+          "text": "Let's schedule a meeting for tomorrow morning.",
+          "meaning": "Hãy lên lịch một cuộc họp vào sáng mai."
+        },
+        {
+          "text": "Could you please send me the report by the end of the day?",
+          "meaning": "Bạn có thể vui lòng gửi cho tôi báo cáo trước cuối ngày không?"
+        },
+        {
+          "text": "I will be working from home this Friday.",
+          "meaning": "Tôi sẽ làm việc tại nhà vào thứ Sáu này."
+        },
+        {
+          "text": "What are the main goals for this quarter?",
+          "meaning": "Các mục tiêu chính cho quý này là gì?"
+        },
+        {
+            "text": "She is in charge of the marketing department.",
+            "meaning": "Cô ấy phụ trách phòng marketing."
+        },
+        {
+            "text": "I need to finish this project by Friday.",
+            "meaning": "Tôi cần hoàn thành dự án này trước thứ Sáu."
+        },
+        {
+            "text": "Could we postpone the deadline?",
+            "meaning": "Chúng ta có thể hoãn hạn chót không?"
+        },
+        {
+            "text": "The client is satisfied with our proposal.",
+            "meaning": "Khách hàng hài lòng với đề xuất của chúng ta."
+        },
+        {
+            "text": "We need to increase our productivity.",
+            "meaning": "Chúng ta cần tăng năng suất làm việc."
+        },
+        {
+            "text": "I'm working overtime this week.",
+            "meaning": "Tuần này tôi làm thêm giờ."
+        }
+      ]
+    },
+    {
+        "name": "Cuộc họp",
+        "sentences": [
+            {
+                "text": "Let's start the meeting on time.",
+                "meaning": "Hãy bắt đầu cuộc họp đúng giờ."
+            },
+            {
+                "text": "Could everyone please turn off their phones?",
+                "meaning": "Mọi người vui lòng tắt điện thoại."
+            },
+            {
+                "text": "I'd like to discuss the quarterly results.",
+                "meaning": "Tôi muốn thảo luận về kết quả quý."
+            },
+            {
+                "text": "Do you have any questions about this proposal?",
+                "meaning": "Bạn có câu hỏi gì về đề xuất này không?"
+            },
+            {
+                "text": "Let's move on to the next agenda item.",
+                "meaning": "Hãy chuyển sang mục tiếp theo trong chương trình."
+            },
+            {
+                "text": "Can you share your screen with us?",
+                "meaning": "Bạn có thể chia sẻ màn hình với chúng tôi không?"
+            },
+            {
+                "text": "I disagree with that approach.",
+                "meaning": "Tôi không đồng ý với cách tiếp cận đó."
+            },
+            {
+                "text": "Could you elaborate on that point?",
+                "meaning": "Bạn có thể giải thích rõ hơn về điểm đó không?"
+            },
+            {
+                "text": "We need to wrap up by 5 PM.",
+                "meaning": "Chúng ta cần kết thúc trước 5 giờ chiều."
+            },
+            {
+                "text": "I'll send out the meeting minutes later.",
+                "meaning": "Tôi sẽ gửi biên bản cuộc họp sau."
+            }
+        ]
+    },
+    {
+        "name": "Hội thoại hàng ngày",
+        "sentences": [
+            {
+                "text": "How have you been lately?",
+                "meaning": "Dạo này bạn thế nào?"
+            },
+            {
+                "text": "It's a beautiful day, isn't it?",
+                "meaning": "Hôm nay là một ngày đẹp trời phải không?"
+            },
+            {
+                "text": "I'm sorry, I didn't catch what you said.",
+                "meaning": "Xin lỗi, tôi không nghe rõ bạn nói gì."
+            },
+            {
+                "text": "What do you do for a living?",
+                "meaning": "Bạn làm nghề gì?"
+            },
+            {
+                "text": "Have a great weekend!",
+                "meaning": "Chúc bạn cuối tuần vui vẻ!"
+            },
+            {
+                "text": "Nice to meet you!",
+                "meaning": "Rất vui được gặp bạn!"
+            },
+            {
+                "text": "How's your family doing?",
+                "meaning": "Gia đình bạn thế nào?"
+            },
+            {
+                "text": "Would you like to grab some coffee?",
+                "meaning": "Bạn có muốn đi uống cà phê không?"
+            },
+            {
+                "text": "See you later!",
+                "meaning": "Hẹn gặp lại!"
+            },
+            {
+                "text": "That sounds interesting.",
+                "meaning": "Nghe có vẻ thú vị đấy."
+            }
+        ]
+    },
+    {
+        "name": "Mua sắm",
+        "sentences": [
+            {
+                "text": "How much does this shirt cost?",
+                "meaning": "Chiếc áo này giá bao nhiêu?"
+            },
+            {
+                "text": "Do you have this in a different color?",
+                "meaning": "Bạn có cái này với màu khác không?"
+            },
+            {
+                "text": "Where can I find the fitting room?",
+                "meaning": "Phòng thử đồ ở đâu?"
+            },
+            {
+                "text": "Can I pay with a credit card?",
+                "meaning": "Tôi có thể thanh toán bằng thẻ tín dụng không?"
+            },
+            {
+                "text": "Is there a discount for students?",
+                "meaning": "Có giảm giá cho sinh viên không?"
+            },
+            {
+                "text": "What size do you have available?",
+                "meaning": "Bạn có size nào?"
+            },
+            {
+                "text": "Can I return this if it doesn't fit?",
+                "meaning": "Tôi có thể trả lại nếu không vừa không?"
+            },
+            {
+                "text": "Do you accept cash?",
+                "meaning": "Bạn có nhận tiền mặt không?"
+            },
+            {
+                "text": "Is this on sale?",
+                "meaning": "Cái này có đang giảm giá không?"
+            },
+            {
+                "text": "Where is the customer service desk?",
+                "meaning": "Quầy dịch vụ khách hàng ở đâu?"
+            }
+        ]
+    },
+    {
+        "name": "Ăn uống",
+        "sentences": [
+            {
+                "text": "What would you recommend from the menu?",
+                "meaning": "Bạn có thể giới thiệu món gì từ thực đơn?"
+            },
+            {
+                "text": "I'm allergic to seafood.",
+                "meaning": "Tôi bị dị ứng hải sản."
+            },
+            {
+                "text": "Could I have the bill, please?",
+                "meaning": "Cho tôi xin hóa đơn."
+            },
+            {
+                "text": "This food is delicious!",
+                "meaning": "Món ăn này rất ngon!"
+            },
+            {
+                "text": "Is this dish spicy?",
+                "meaning": "Món này có cay không?"
+            },
+            {
+                "text": "Can I have extra sauce on the side?",
+                "meaning": "Tôi có thể xin thêm nước sốt riêng không?"
+            },
+            {
+                "text": "I'd like to make a reservation for two.",
+                "meaning": "Tôi muốn đặt bàn cho hai người."
+            },
+            {
+                "text": "What's the special of the day?",
+                "meaning": "Món đặc biệt hôm nay là gì?"
+            },
+            {
+                "text": "Could we have separate checks?",
+                "meaning": "Chúng tôi có thể tính tiền riêng không?"
+            },
+            {
+                "text": "The service here is excellent.",
+                "meaning": "Dịch vụ ở đây rất tuyệt vời."
+            }
+        ]
+    },
+    {
+        "name": "Sức khỏe",
+        "sentences": [
+            {
+                "text": "I don't feel well today.",
+                "meaning": "Hôm nay tôi cảm thấy không khỏe."
+            },
+            {
+                "text": "Where is the nearest pharmacy?",
+                "meaning": "Hiệu thuốc gần nhất ở đâu?"
+            },
+            {
+                "text": "I need to see a doctor.",
+                "meaning": "Tôi cần gặp bác sĩ."
+            },
+            {
+                "text": "Do you have any medicine for headaches?",
+                "meaning": "Bạn có thuốc gì cho đau đầu không?"
+            },
+            {
+                "text": "I exercise regularly to stay healthy.",
+                "meaning": "Tôi tập thể dục đều đặn để giữ sức khỏe."
+            },
+            {
+                "text": "I have a doctor's appointment tomorrow.",
+                "meaning": "Ngày mai tôi có hẹn với bác sĩ."
+            },
+            {
+                "text": "My back has been hurting lately.",
+                "meaning": "Dạo này lưng tôi bị đau."
+            },
+            {
+                "text": "Do I need a prescription for this?",
+                "meaning": "Tôi có cần đơn thuốc cho cái này không?"
+            },
+            {
+                "text": "I'm trying to eat healthier.",
+                "meaning": "Tôi đang cố gắng ăn uống lành mạnh hơn."
+            },
+            {
+                "text": "How often should I take this medication?",
+                "meaning": "Tôi nên uống thuốc này bao lâu một lần?"
+            }
+        ]
+    },
+    {
+        "name": "Học tập",
+        "sentences": [
+            {
+                "text": "What time does the library open?",
+                "meaning": "Thư viện mở cửa lúc mấy giờ?"
+            },
+            {
+                "text": "I have an exam next week.",
+                "meaning": "Tuần sau tôi có kỳ thi."
+            },
+            {
+                "text": "Could you help me with this homework?",
+                "meaning": "Bạn có thể giúp tôi làm bài tập này không?"
+            },
+            {
+                "text": "I'm studying English literature.",
+                "meaning": "Tôi đang học văn học Anh."
+            },
+            {
+                "text": "The professor explained the lesson very clearly.",
+                "meaning": "Giáo sư giải thích bài học rất rõ ràng."
+            },
+            {
+                "text": "I need to study harder for the final exam.",
+                "meaning": "Tôi cần học chăm chỉ hơn cho kỳ thi cuối kỳ."
+            },
+            {
+                "text": "Can you recommend any good textbooks?",
+                "meaning": "Bạn có thể giới thiệu sách giáo khoa tốt nào không?"
+            },
+            {
+                "text": "The assignment is due next Friday.",
+                "meaning": "Bài tập phải nộp vào thứ Sáu tuần sau."
+            },
+            {
+                "text": "I'm having trouble understanding this concept.",
+                "meaning": "Tôi gặp khó khăn trong việc hiểu khái niệm này."
+            },
+            {
+                "text": "Let's form a study group.",
+                "meaning": "Hãy thành lập một nhóm học tập."
+            }
+        ]
+    },
+    {
+        "name": "Thời tiết",
+        "sentences": [
+            {
+                "text": "What's the weather like today?",
+                "meaning": "Thời tiết hôm nay thế nào?"
+            },
+            {
+                "text": "It's quite cold outside.",
+                "meaning": "Bên ngoài khá lạnh."
+            },
+            {
+                "text": "I think it's going to rain.",
+                "meaning": "Tôi nghĩ trời sắp mưa."
+            },
+            {
+                "text": "The sun is shining brightly.",
+                "meaning": "Mặt trời đang chiếu sáng rực rỡ."
+            },
+            {
+                "text": "I love this warm weather!",
+                "meaning": "Tôi thích thời tiết ấm áp này!"
+            },
+            {
+                "text": "Don't forget to bring an umbrella.",
+                "meaning": "Đừng quên mang ô nhé."
+            },
+            {
+                "text": "The weather forecast says it will be sunny.",
+                "meaning": "Dự báo thời tiết nói trời sẽ nắng."
+            },
+            {
+                "text": "It's very humid today.",
+                "meaning": "Hôm nay rất ẩm ướt."
+            },
+            {
+                "text": "I hope the snow stops soon.",
+                "meaning": "Tôi hy vọng tuyết sẽ ngừng sớm."
+            },
+            {
+                "text": "Perfect weather for a picnic!",
+                "meaning": "Thời tiết hoàn hảo cho một chuyến dã ngoại!"
+            }
+        ]
+    }
+  ]
+}
